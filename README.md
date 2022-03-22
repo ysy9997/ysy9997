@@ -13,6 +13,7 @@
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-007ACC.svg?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=VisualStudio&logoColor=white)
 
 [![ysy9997's github stats](https://github-readme-stats.vercel.app/api?username=ysy9997&count_private=1&custom_title=ysy9997&bg_color=0,F2F2F2,F2F2F2&title_color=939393&text_color=00000)](https://github.com/anuraghazra/github-readme-stats)
