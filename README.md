@@ -34,6 +34,7 @@
 ---
 
 ## Journals
+- **S.Yang**, M.Kim, B.Kang, and Y.Lee, "XID: A protocol for evaluating identity consistency under domain shifts and reidentification method", Neurocomputing, Feb, 2026.
 - **S.Yang**, B.Kang, and Y.Lee, “Sampling Agnostic Feature Representation for Long-Term Person Re-identification”, IEEE Transactions on Image Processing (TIP), Sep. 2022.
 - **S.Yang**, K.Kim, and Y.Lee, "Dense Depth Estimation from Multiple 360-degree Images Using Virtual Depth", Applied Intelligence, Mar. 2022.
 - T.Kim, **S.Yang**, B.Kang, H.Lee, J.Seo, and Y.Lee, "Segmentation-Based Seam Cutting for High-Resolution 360-Degree Video Stitching", IEEE Access, Jun. 2021. 
